@@ -1,5 +1,5 @@
 #header-container {
-    height: 120px;
+    height: 56px;
     opacity: 0;
     transition: opacity 0.5s ease-in;
 }
